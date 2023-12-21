@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Thu Dec 21 14:18:45 CET 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-018c-8c87-4443-000000e60848 
+on database directory memory:C:\Users\elpav\Desktop\IntelliJ Workspace\garageapp\5eab536c-f69b-4594-8c57-50dffb64d35e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 
+Loaded from file:/C:/Users/elpav/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=20.0.1+9-29
+user.dir=C:\Users\elpav\Desktop\IntelliJ Workspace\garageapp
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Dec 21 15:01:13 CET 2023:
+Shutting down instance a816c00e-018c-8c87-4443-000000e60848 on database directory memory:C:\Users\elpav\Desktop\IntelliJ Workspace\garageapp\5eab536c-f69b-4594-8c57-50dffb64d35e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 
